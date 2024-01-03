@@ -1,2 +1,2 @@
 # Kubernetes Playground
-This repo holds code used to explore Kubernetes. 
+This repo holds code used to explore Kubernetes functionalities.
